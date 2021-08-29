@@ -3,3 +3,5 @@ An autonomous car using Python scripts setup as daemons on a Raspberry Pi which 
 
 - Ultrasonic sensors were used to detect obstacles.
 - Employed multi-threading to achieve the needed timing constraints for the system to work in real time.
+
+Acknowledging credits to my teammate: Yazan Dardas.
